@@ -1,0 +1,49 @@
+  .navbar-brand
+   {
+     padding 130x,15px;
+   }
+
+#myCarousel .item
+{
+  height: 400px;
+}
+#foot
+{
+  background-color: orange;
+}
+#foot h6
+{
+  font-size: 12px;
+}
+.container
+{
+  align-content: center;
+}
+   #featuresHeading
+   {
+         margin-top: 10px;
+         margin-bottom: 10px;
+    }
+       #features img
+       {
+        width:100%;
+      }
+@media (max-width: 480px)
+{
+
+}
+
+@media (max-width: 768px)
+{
+#mycarousal .item
+{
+  height:310px;
+}
+}
+@media (min-width: 1200px)
+ {
+   #mycarousal .item
+   {
+     height:500px;
+   }
+}
