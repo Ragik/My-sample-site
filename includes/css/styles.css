@@ -9,7 +9,7 @@
 }
 #foot
 {
-  background-color: orange;
+  background-color:blue;
 }
 #foot h6
 {
@@ -31,6 +31,9 @@
 @media (max-width: 480px)
 {
 
+}
+#Mymodal button{
+  background-color: red;
 }
 
 @media (max-width: 768px)
